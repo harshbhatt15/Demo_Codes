@@ -213,3 +213,9 @@ Contributions are welcome!
 If you found this project helpful, please consider giving it a ⭐ on GitHub.
 
 ---
+
+## 👨‍💻 Author
+
+**Harsh Bhatt**
+
+🔗 GitHub: **https://github.com/harshbhatt15**

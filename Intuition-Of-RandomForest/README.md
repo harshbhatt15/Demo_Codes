@@ -217,6 +217,5 @@ If you found this project helpful, please consider giving it a ⭐ on GitHub.
 ## 👨‍💻 Author
 
 **Harsh Bhatt**
-**BCA**
 
 🔗 GitHub: **https://github.com/harshbhatt15**

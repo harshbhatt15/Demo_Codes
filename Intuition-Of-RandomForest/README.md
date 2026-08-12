@@ -218,4 +218,3 @@ If you found this project helpful, please consider giving it a ⭐ on GitHub.
 
 **Harsh Bhatt**
 
-🔗 GitHub: **https://github.com/harshbhatt15**
